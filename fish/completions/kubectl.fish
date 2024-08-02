@@ -1,0 +1,1 @@
+/Applications/(A Document Being Saved By Sparkle)/OrbStack.app/Contents/MacOS/../Resources/completions/kubectl.fish
